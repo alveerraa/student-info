@@ -1,0 +1,14 @@
+students:
+  - name: John Doe
+    age: 20
+    major: Computer Science
+    gpa: 3.5
+  - name: Jane Smith
+    age: 21
+    major: Electrical Engineering
+    gpa: 3.8
+  - name: Mark Johnson
+    age: 22
+    major: Mechanical Engineering
+    gpa: 3.2
+
